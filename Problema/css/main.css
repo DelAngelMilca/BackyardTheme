@@ -1,0 +1,34 @@
+header {
+  background-image: url(../images/img-cuernito.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  width: 100%;
+  height: 600px;
+  -webkit-filter: brightness(70%); }
+
+.img-blog img {
+  width: 100%;
+  height: 300px; }
+
+h4 {
+  color: #AAAAAA; }
+
+section {
+  box-shadow: 12px 8px 12px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 15px;
+  margin-top: 7%; }
+
+footer {
+  margin-top: 7%; }
+
+i {
+  color: #00BFFF; }
+
+aside {
+  background-color: #E6E6E6;
+  box-shadow: 12px 8px 12px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 15px;
+  margin-top: 7%; }
+
+/*# sourceMappingURL=main.css.map */
